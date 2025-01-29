@@ -1,0 +1,9 @@
+{
+    "files.trimTrailingWhitespace": false,
+    "editor.formatOnSave": false,
+    "editor.insertSpaces": true,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "jsx": "javascriptreact"
+    }
+  }
